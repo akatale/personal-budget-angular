@@ -1,0 +1,44 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 25
+        },
+        {
+            "title": "Rent",
+            "budget": 375
+        },
+        {
+            "title": "Grocery",
+            "budget": 110
+        },
+        {
+            "title": "Fuel",
+            "budget": 50
+        },
+        {
+            "title": "Car Wash",
+            "budget": 20
+        },
+        {
+            "title": "Electricity",
+            "budget": 70
+        },
+        {
+            "title": "Water",
+            "budget": 55
+        },
+        {
+            "title": "Mobile recharge",
+            "budget": 19
+        },
+        {
+            "title": "Maintenance & Repair",
+            "budget": 30
+        },
+        {
+            "title": "Gym fees",
+            "budget": 30
+        }
+    ]
+}
